@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095222840676",
+    "project_id": "sumbangan-1a4f9",
+    "storage_bucket": "sumbangan-1a4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095222840676:android:133195a816489fc201be71",
+        "android_client_info": {
+          "package_name": "com.example.sumbang_sarong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095222840676-p3d5go0rh3uvcv6ekc8pk3da9unoamj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUeQ42lfVaDtHbSH_S9j8N8YW9GhAVWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095222840676-p3d5go0rh3uvcv6ekc8pk3da9unoamj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
